@@ -1,7 +1,4 @@
-# Mysql8-ResetThePassword
-Mysql8在重置密码上跟以往版本有很大不同。
----
-# mysql8重置密码CentOS8
+# Mysql8重置密码CentOS8
 
 ---
 
