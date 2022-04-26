@@ -6,7 +6,8 @@
 
 ```py
 # 在/etc/my.cnf文件中添加skip-grant-tables
-# 例如[mysqld]
+# （一定要放到[mysqld]下面）
+[mysqld]
 	  skip-grant-tables
 ```
 
