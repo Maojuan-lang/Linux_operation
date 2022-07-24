@@ -81,3 +81,8 @@
 # 有client和server表示docker安装启动都成功了
 ```
 
+```py
+curl -fsSL https://get.docker.com -o get-docker.sh
+
+sh get-docker.sh --mirror Aliyun
+```
